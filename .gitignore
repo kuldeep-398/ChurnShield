@@ -1,0 +1,10 @@
+# Django stuff:
+db.sqlite3
+pyvenv.cfg
+staticfiles
+env/
+venv/
+.env
+ChurnShield/__pycache__/
+Churn/migrations/__pycache__/
+Churn/__pycache__/
